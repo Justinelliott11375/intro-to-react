@@ -1,0 +1,23 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinelliott11375/intro-to-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justinelliott11375/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/Justinelliott11375/intro-to-react#readme"
+}
